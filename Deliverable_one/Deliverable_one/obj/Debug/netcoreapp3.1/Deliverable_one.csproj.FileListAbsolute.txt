@@ -1,0 +1,13 @@
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.exe
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.deps.json
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.runtimeconfig.json
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.runtimeconfig.dev.json
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.dll
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\bin\Debug\netcoreapp3.1\Deliverable_one.pdb
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.csprojAssemblyReference.cache
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.AssemblyInfoInputs.cache
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.AssemblyInfo.cs
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.dll
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.pdb
+C:\Users\Jasmine\source\repos\Deliverable_one\Deliverable_one\obj\Debug\netcoreapp3.1\Deliverable_one.genruntimeconfig.cache
